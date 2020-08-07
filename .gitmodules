@@ -1,0 +1,3 @@
+[submodule "CsvParser.Core"]
+	path = CsvParser.Core
+	url = https://github.com/CrispyOctopuss/CsvParser.Core

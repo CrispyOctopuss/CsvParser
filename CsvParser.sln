@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvParser", "CsvParser\CsvParser.csproj", "{71356F6F-E371-467B-8581-EED639A52C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71356F6F-E371-467B-8581-EED639A52C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71356F6F-E371-467B-8581-EED639A52C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71356F6F-E371-467B-8581-EED639A52C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71356F6F-E371-467B-8581-EED639A52C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
